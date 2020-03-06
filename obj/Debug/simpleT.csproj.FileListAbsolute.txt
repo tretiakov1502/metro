@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\simpleT\bin\Debug\simpleT.exe.config
+C:\Users\Admin\source\repos\simpleT\bin\Debug\simpleT.exe
+C:\Users\Admin\source\repos\simpleT\bin\Debug\simpleT.pdb
+C:\Users\Admin\source\repos\simpleT\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\source\repos\simpleT\bin\Debug\MetroFramework.dll
+C:\Users\Admin\source\repos\simpleT\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\source\repos\simpleT\obj\Debug\simpleT.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\simpleT\obj\Debug\simpleT.Form1.resources
+C:\Users\Admin\source\repos\simpleT\obj\Debug\simpleT.Properties.Resources.resources
+C:\Users\Admin\source\repos\simpleT\obj\Debug\simpleT.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\simpleT\obj\Debug\simpleT.csproj.CopyComplete
+C:\Users\Admin\source\repos\simpleT\obj\Debug\simpleT.exe
+C:\Users\Admin\source\repos\simpleT\obj\Debug\simpleT.pdb
